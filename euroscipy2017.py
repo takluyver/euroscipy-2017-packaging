@@ -8,7 +8,7 @@ http://matplotlib.org/users/license.html
 import numpy as np
 import matplotlib.pyplot as plt
 
-__version__ = '0.1'
+__version__ = '0.2'
 
 def make_streamplot():
     Y, X = np.mgrid[-3:3:100j, -3:3:100j]
